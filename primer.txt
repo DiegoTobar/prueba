@@ -1,3 +1,6 @@
-primera lineao  -modifica master
+
+primera linea  -modifica master=
+primera linea  -modifica desde hotfix
+>>>>>>> hotfix
 segunda linea
 tercera linea
